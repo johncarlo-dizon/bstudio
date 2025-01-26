@@ -5,7 +5,7 @@
     <a href="<?=base_url("/navbar/nav2")?>" class="list-group-item ">Brand and Background. </a>
     <a href="<?=base_url("/navbar/nav3")?>"  class="list-group-item "> Brand and Heading   </a>
 </div>
-test
+ 
 <div class="card-category">
     <h4 class="d-flex justify-content-between">Branding    <div>Navbar</div></h4>
     <a href="<?=base_url("/navbar/nav4")?>"  class="list-group-item ">Image Logo</a>
