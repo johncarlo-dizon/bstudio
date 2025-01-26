@@ -149,7 +149,11 @@
         background-color: #f1f1f1;
     }
     .outer{
-      background-color:#bae8e8;
+      background-color:rgba(226, 215, 215, 0.97);
+    }
+
+    .inner{
+      background-color:rgb(255, 255, 255);
     }
 
     .profile-avatar {
@@ -279,7 +283,7 @@
 
 
       <!-- Navbar -->
-            <nav class="navbar navbar-expand-sm navbar-dark sticky-top"  style="background-color:#ffffff;padding:0px !important;">
+            <nav class="navbar inner navbar-expand-sm navbar-dark sticky-top"  style="padding:0px !important;">
               <div class="container-fluid d-flex justify-content-start">
               <li class="nav-item dropdown align-items-center d-flex ms-3 me-2 my-2 " >
                   <a class="nav-link dropdown-toggle  no-caret" href="#" role="button" data-bs-toggle="dropdown">
@@ -345,7 +349,7 @@
 
         <div class="tab-content" id="pills-tabContent">
           <div class="tab-pane fade show active" id="pills-monitor" role="tabpanel" aria-labelledby="pills-monitor-tab">
-            <div class="monitor-screen border-1 border text-dark m-2  p-0" style="height:88vh;background-color:#ffffff;  overflow: scroll; ">
+            <div class="monitor-screen border-1 border text-dark m-2 inner p-0" style="height:88vh;   overflow: scroll; ">
                         <div id="output">
                             <?=$this->renderSection("monitor")?>
                         </div> 
@@ -405,7 +409,7 @@
 
 
 <!-- SECOND COLUMN START -->
-    <div class="col-lg-2 col-md-2   sidebar-content   p-3"  style="background-color:#ffffff;">
+    <div class="col-lg-2 col-md-2 inner  sidebar-content   p-3"   >
 
         <!-- COLUMNS S-->
         <div class="d-flex flex-column sticky-top">

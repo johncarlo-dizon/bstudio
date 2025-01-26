@@ -1,4 +1,4 @@
-__ci_last_regenerate|i:1737903054;_ci_previous_url|s:41:"http://localhost:8080/index.php/dashboard";logged_user|s:32:"8df232c272f2c67851c5cbd0fc17eef2";cont|s:9:"accordion";accordion|s:4:"acc3";accordiondata|s:3234:"
+__ci_last_regenerate|i:1737903367;_ci_previous_url|s:41:"http://localhost:8080/index.php/dashboard";logged_user|s:32:"8df232c272f2c67851c5cbd0fc17eef2";cont|s:9:"accordion";accordion|s:4:"acc3";accordiondata|s:3234:"
       <div class="accordion" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -115,4 +115,4 @@ __ci_last_regenerate|i:1737903054;_ci_previous_url|s:41:"http://localhost:8080/i
     </div>
   </div>
 </div>
-      ";}}message|s:39:"Your username was successfully updated.";__ci_vars|a:1:{s:7:"message";i:1737902080;}
+      ";}}
