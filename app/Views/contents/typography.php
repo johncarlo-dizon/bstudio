@@ -11,3 +11,4 @@
     <a href="<?= base_url("/typography/text_colors") ?>" class="list-group-item">Text Colors</a>
     <a href="<?= base_url("/typography/display_properties") ?>" class="list-group-item">Display Properties</a>
 </div>
+
