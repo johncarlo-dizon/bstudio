@@ -7,7 +7,7 @@
             if(!isset($activePage)){
               $activePage = 'navbar';
             }
-test
+
              ?>
            <li class="nav-item">
              <a href="<?=base_url("/getList/navbar")?>" class="nav-link dropdown-item <?php if ($activePage == 'navbar' ) echo 'active'; ?>">Navbar</a>
