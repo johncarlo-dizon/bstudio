@@ -16,7 +16,7 @@ class BadgeButtonModel extends Model
         <h5>Example heading <span class="badge bg-secondary">New</span></h5>
         <h6>Example heading <span class="badge bg-secondary">New</span></h6>
         ',
-        
+        test
         'badge_button' => '
         <button type="button" class="btn btn-primary">
         Notifications <span class="badge bg-secondary">4</span>
