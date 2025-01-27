@@ -1,0 +1,17 @@
+__ci_last_regenerate|i:1737948939;_ci_previous_url|s:41:"http://localhost:8080/index.php/dashboard";logged_user|s:32:"8df232c272f2c67851c5cbd0fc17eef2";navbar|s:4:"nav8";navbardata|s:440:"<nav class="navbar navbar-light bg-light p-2">
+                  <div class="container-fluid">
+                    <form class="d-flex">
+                      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                      <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+                  </div>
+                </nav>
+                ";rows|a:1:{i:0;a:1:{i:0;s:440:"<nav class="navbar navbar-light bg-light p-2">
+                  <div class="container-fluid">
+                    <form class="d-flex">
+                      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                      <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+                  </div>
+                </nav>
+                ";}}
